@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##Pasquale Nisi here
+## Pasquale Nisi here
 
 - :briefcase: I'm currently working as a Industrial Engineer in a Steel Plant.
 - 🌱 I'm currently attending the Data Science Professional Path offered by [ProfessionAI](https://www.profession.ai/).
